@@ -1,1 +1,17 @@
+1. Unsure
 
+2.the client deals with the frontend and user interface, the server is used to connect to the backend.
+
+3.Server.js is used to connect to the backend to retrieve data I think.
+
+4.Gamesrouter is used to create and control the urls of the game, and the functions that might run when they are landed on.
+
+5.The create router.js.
+
+6.optional second argument is an Object, used for setting value to keys.
+
+7.getGames, postGame, deleteGame.
+
+8.This allows us to connect to the database.
+
+Ext. The MongoDB doesn't use unique ids so creating an id Object helps us to keep control of the data in it, when referencing etc.
